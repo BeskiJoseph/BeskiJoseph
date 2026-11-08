@@ -7,10 +7,10 @@
 
 # Hey, I'm Constantine Beski 👋
 
-### Full-Stack Developer · Backend Engineering · AI-Powered Applications
+### Full-Stack Engineer · Backend Systems · AI Integration
 
-I build practical web applications and backend systems — from responsive interfaces and REST APIs to
-database-driven products, background jobs, media workflows, and AI integrations.
+I turn ideas into working software — building user-facing applications, secure APIs, data-driven backends,
+asynchronous processing pipelines, and AI-assisted product features.
 
 [![GitHub](https://img.shields.io/badge/GitHub-BeskiJoseph-181717?style=for-the-badge&logo=github)](https://github.com/BeskiJoseph)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/constantine-beski-j-a6b04b2b3)
@@ -23,9 +23,9 @@ database-driven products, background jobs, media workflows, and AI integrations.
 ## 👨‍💻 About Me
 
 - 🎓 MCA graduate with a focus on software development.
-- 🧩 Interested in **full-stack development, backend architecture, and AI-powered products**.
-- ⚙️ Enjoy designing APIs, data models, asynchronous workflows, and production-oriented services.
-- 🚀 Build with JavaScript technologies and explore Python-based AI/ML tooling.
+- 🧩 Focused on **full-stack engineering, backend architecture, and AI-powered products**.
+- ⚙️ Hands-on with API design, PostgreSQL data modeling, Redis/BullMQ workers, secure uploads, and media workflows.
+- 🚀 Work across JavaScript/TypeScript, React, Node.js, Python tooling, and mobile development.
 - 📚 Continuously learning, experimenting, and improving through hands-on projects.
 - 🤝 Open to opportunities to contribute to software engineering teams.
 
@@ -34,6 +34,7 @@ database-driven products, background jobs, media workflows, and AI integrations.
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -41,6 +42,8 @@ database-driven products, background jobs, media workflows, and AI integrations.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -65,6 +68,8 @@ database-driven products, background jobs, media workflows, and AI integrations.
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=opencv&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Faster Whisper](https://img.shields.io/badge/Faster--Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### DevOps, Cloud & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -76,16 +81,25 @@ database-driven products, background jobs, media workflows, and AI integrations.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+## 🧱 What I Build
+
+- **Product engineering:** end-to-end web and mobile experiences, reusable UI, forms, dashboards, and API integration.
+- **Backend foundations:** Node.js services, REST endpoints, authentication, validation, rate limiting, structured logging, and graceful shutdown.
+- **Data systems:** relational schema design, indexes, migrations, pagination, caching, and feed-oriented data retrieval.
+- **Async workflows:** Redis and BullMQ job queues, worker orchestration, retries, and background processing.
+- **Media infrastructure:** multipart uploads, file signature validation, FFmpeg processing, Cloudflare R2 object storage, and media delivery.
+- **AI-assisted features:** LLM integration, speech-to-text with Whisper, audio analysis, and computer-vision experimentation.
+
 ## 🚀 Selected Projects
 
 A selection of projects and areas of work from my repositories. Open each repository for implementation details and setup instructions.
 
 | Project | What it explores |
 |---|---|
-| [Localme](https://github.com/BeskiJoseph/Localme-V1.0) | Social application development, mobile experience, feeds, and media features |
+| [Localme](https://github.com/BeskiJoseph/Localme-V1.0) | Social/mobile product work involving feeds, reels, media handling, and product architecture |
 | [Sweety – Glucose Tracker](https://github.com/BeskiJoseph/sweety-glucose-tracker) | MERN-oriented full-stack application for recording and viewing glucose readings |
-| [AI Skill Gap Analysis](https://github.com/BeskiJoseph/AI-Powered-Skill-Gap-Analysis-Tool) | AI-assisted skill analysis and learning recommendations |
-| [Audio Insight](https://github.com/BeskiJoseph/audio-insight-pilot) | Audio processing and AI-assisted insight workflows |
+| [AI Skill Gap Analysis](https://github.com/BeskiJoseph/AI-Powered-Skill-Gap-Analysis-Tool) | Resume/job-description comparison, skill-gap analysis, and learning roadmaps |
+| [Audio Insight / CallInsights](https://github.com/BeskiJoseph/audio-insight-pilot) | Call transcript review, sentiment analysis, visualizations, and reporting |
 | [Interview Flow AI Coach](https://github.com/BeskiJoseph/interview-flow-ai-coach) | AI-assisted interview preparation |
 | [Resume to Roadmap](https://github.com/BeskiJoseph/resume-to-roadmap) | Turning resume information into a structured development roadmap |
 | [E-commerce](https://github.com/BeskiJoseph/E-commerce-) | E-commerce application development |
@@ -100,6 +114,14 @@ A selection of projects and areas of work from my repositories. Open each reposi
 - **Media pipelines:** FFmpeg workflows, object storage, audio transcription, and video processing.
 - **AI integration:** Connecting LLMs and speech/vision tools to practical application workflows.
 - **Deployment:** Dockerized services, Linux process management, Nginx, and cloud storage.
+
+## 🧰 Tools & Libraries
+
+React Hook Form · Zod · Axios · shadcn/ui · Radix UI · Recharts · Vite · Cloudinary · Razorpay ·
+Firebase Admin · AWS SDK · FFmpeg · Faster-Whisper · Ollama · Groq · Qwen · YOLOv8 ·
+Silero VAD · OpenNSFW2 · NudeNet · Wikipedia API
+
+*Tools listed reflect technologies explored or used across projects and experiments; not every tool is part of every application.*
 
 ## 📊 GitHub Overview
 
